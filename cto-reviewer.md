@@ -1,6 +1,6 @@
 ---
 name: cto-reviewer
-description: "Use this agent when the user has written or modified code and wants it reviewed for simplicity, maintainability, and deployment stability. This includes after completing a feature, refactoring existing code, preparing code for a pull request, or when the user explicitly asks for a code review. The agent should be used proactively after significant code changes are made.
+description: "Use this agent when the user has written or modified code and wants it reviewed for simplicity, maintainability, and deployment stability. This includes after completing a feature, refactoring existing code, preparing code for a pull request, or when the user explicitly asks for a code review. The agent should be used proactively after significant code changes are made."
 tools: Glob, Grep, Read, WebFetch, WebSearch
 model: opus
 color: red
